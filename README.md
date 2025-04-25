@@ -12,7 +12,7 @@
   ![image](https://github.com/user-attachments/assets/d50b4716-f4ab-45ce-9af6-ae356603dd53)
 
 - pantalla 4
-- ![image](https://github.com/user-attachments/assets/33c2f649-4803-4244-97fb-21b7f4d01e0d)
+  ![image](https://github.com/user-attachments/assets/33c2f649-4803-4244-97fb-21b7f4d01e0d)
 
 - pantalla 5
   ![image](https://github.com/user-attachments/assets/959cc5ef-103c-454c-8987-697d1b9f509f)
